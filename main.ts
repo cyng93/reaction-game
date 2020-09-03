@@ -4,7 +4,7 @@ input.onPinPressed(TouchPin.P0, function () {
     basic.showNumber(2)
     basic.showNumber(1)
     basic.clearScreen()
-    basic.pause(randint(100, 800))
+    basic.pause(randint(100, 777))
     basic.showIcon(IconNames.Heart)
     沒有贏家 = 1
     while (沒有贏家) {
